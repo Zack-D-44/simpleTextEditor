@@ -1,6 +1,8 @@
 # simpleTextEditor
 A simple text editor that has features such as file saving, file opening, copy, paste, cut and more.
 
+The text editor was written in Python using the Tkinter library. 
+
 List of all features:
 -Text editing
 -File saving
