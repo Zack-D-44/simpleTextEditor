@@ -34,3 +34,9 @@ Technologies used:
 -Python 
 
 -Tkinter
+
+Getting started:
+
+-Clone the repository
+
+-Run the main.py script
