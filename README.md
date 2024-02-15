@@ -5,14 +5,32 @@ The text editor was written in Python using the Tkinter library.
 
 List of all features:
 -Text editing
+
 -File saving
+
 -File opening
+
 -Creating new file
+
 -Copy
+
 -Paste
+
 -Cut
+
 -Font style changing
+
 -Font size changing
+
 -Different styled appearances
+
 -Scroll bar
+
 -Status bar that updates when file is saved
+
+
+Technologies used:
+
+-Python 
+
+-Tkinter
